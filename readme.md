@@ -1,10 +1,21 @@
-<h1 align="lef">Olá 👋, Sou a Brenda</h1>
-<h3 align="left">Bem vindos ao meu perfil</h3>
-Sou estudante full stack de desenvolvimento web
-O Perfil ainda está em construção, que tal seguir para não perder as atualizações?
-<p>
-<p align="left">
-<a href="https://instagram.com/brendapgusmao" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brendapgusmao"></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brendagusmao&label=Profile%20views&color=0e75b6&style=flat" alt="brendagusmao" /> </p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?brendagusmao={brendapgusmao}"></a>
+![github-header-image (4)](https://user-images.githubusercontent.com/106771748/200428781-29cef792-4e87-40ad-b565-09f6bb6e2500.png)
+```yaml
+name: Brenda Gusmão
+located_in: Belo Horizonte, Brazil.
+current_job: Estudant Full Stack Developer
+education:
+  [
+    "Production Engineer",
+    "Developer Full Stack",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "DevOps",
+  ]
+  
+currently_learning: ["Docker, React Native"]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy", "Books"]
+```
