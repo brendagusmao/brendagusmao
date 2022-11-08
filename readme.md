@@ -1,5 +1,5 @@
 
-![github-header-image (7)](https://user-images.githubusercontent.com/106771748/200469545-d1681839-65ca-486a-aa03-c3f6660b0a83.png)
+![github-header-image (9)](https://user-images.githubusercontent.com/106771748/200470097-f6e0884a-c377-4d89-baa8-6c852df98d2b.png)
 
 ```yaml
 name: Brenda Pereira Gusmão
