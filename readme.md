@@ -1,5 +1,5 @@
 
-<img align="center" src="https://user-images.githubusercontent.com/106771748/200428781-29cef792-4e87-40ad-b565-09f6bb6e2500.png" />
+![github-header-image (7)](https://user-images.githubusercontent.com/106771748/200469545-d1681839-65ca-486a-aa03-c3f6660b0a83.png)
 
 ```yaml
 name: Brenda Pereira Gusmão
@@ -23,6 +23,7 @@ fields_of_interests:
 currently_learning: ["Docker, React Native"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy", "Books"]
 ```
+<h2> Connect with me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px> </h2>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brendagusmao)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendapgusmao/)
