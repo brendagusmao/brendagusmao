@@ -2,7 +2,8 @@
 ![github-header-image (9)](https://user-images.githubusercontent.com/106771748/200470097-f6e0884a-c377-4d89-baa8-6c852df98d2b.png)
 
 ```yaml
-name: Brenda Pereira Gusmão
+name: Brenda Pereira Gusmão.
+email: brendapgusmao@gmail.com
 description: A passionate full stack web developer and a Production engineer from Brazil. 
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture, and code quality of the things I build.
